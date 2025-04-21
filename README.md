@@ -17,16 +17,13 @@ Mengidentifikasi keberadaan data duplikat dan data hilang (missing value), serta
 
 Menyajikan visualisasi yang mendukung pemahaman terhadap pola keselamatan penumpang.
 
+## 🔍 Apa yang dilakukan dalam proyek ini:
 
+Membersihkan dan mempersiapkan data (handling duplicate data dan handling missing values)
 
-🔍 Apa yang dilakukan dalam proyek ini:
-Membersihkan dan mempersiapkan data (handling missing values, encoding, dsb)
+Visualisasi data
 
-Analisis univariat dan bivariat
+Insight menarik seputar pengaruh umur, jenis kelamin, dan lainnya
 
-Visualisasi data menggunakan Seaborn & Matplotlib
-
-Insight menarik seputar pengaruh umur, jenis kelamin, kelas kabin, dan lainnya terhadap keselamatan penumpang
-
-🎯 Tujuan:
-Meningkatkan pemahaman saya terhadap proses EDA sebagai langkah awal yang krusial dalam setiap proyek Data Science, serta mengasah keterampilan Python dan visualisasi data.
+## 🎯 Tujuan:
+Meningkatkan pemahaman saya terhadap proses EDA sebagai langkah awal yang krusial dalam setiap proyek Data Analyst & Data Science, serta mengasah keterampilan Python dan visualisasi data.
